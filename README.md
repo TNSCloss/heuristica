@@ -32,7 +32,11 @@ Veredito de Closs: Numa escala de "Baixo Valor" a "Sabedoria Pura", qual é a cl
 
 Escala de Valor Informacional
 Baixo Valor: 0–5
+
 Valor Moderado: 6–10
+
 Alto Valor: 11–20
+
 Sabedoria Aplicada: 21–30
+
 Sabedoria Pura: >30
