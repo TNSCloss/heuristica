@@ -11,7 +11,9 @@ Contexto da Fórmula:
 A Heurística de Closs determina o Valor Real (V) da informação através da equação: V = (U x C) / I, onde:
  
 U (Utilidade): Relevância prática e aplicabilidade imediata (1-10).
+
 C (Confiabilidade): Autoridade da fonte e fundamentação (1-10).
+
 I (Infoxicação): Volume de ruído, perda de tempo e carga cognitiva (1-10).
 
 Instruções de Resposta:
